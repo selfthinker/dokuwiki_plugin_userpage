@@ -1,0 +1,4 @@
+/* highlight when on user page (only works with old menu) */
+#dokuwiki__usertools ul li a.userpage.active {
+  font-weight: bold;
+}

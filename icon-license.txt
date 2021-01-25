@@ -1,0 +1,4 @@
+Icon set:   Material Design Icons
+Designer:   GreenTurtwig [@greenturtwig]
+License:    Apache License Version 2.0 [http://www.apache.org/licenses/LICENSE-2.0.txt]
+URL:        https://materialdesignicons.com/icon/home-account
