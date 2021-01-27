@@ -1,7 +1,7 @@
 base   userpage
 author Anika Henke
 email  anika@selfthinker.org
-date   2020-01-25
+date   2021-01-25
 name   Userpage Plugin
 desc   Add item the user menu that links to the user page for every logged-in user
 url    https://www.dokuwiki.org/plugin:userpage
